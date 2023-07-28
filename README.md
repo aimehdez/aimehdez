@@ -10,7 +10,8 @@
 - 👀 I’m interested in Leadership and Management skills
 - 💞️ I’m looking to collaborate on Civil Engineering, Administration & Programmation.
 - 📍 Location: Campeche, Camp. 🇲🇽
-- 📣 Languages: English & Spanish 
+- 📣 Languages skills: English & Spanish
+- 👨‍💻 Programmation languages: HTML, CSS, JavaScript & Bootstrap
 
 <hr>	
 
